@@ -1,4 +1,5 @@
-## Hi there 👋
+Hello, world 👋
+I am a machine learning/deep learning learner.
 
 <!--
 **sayaka513/sayaka513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
