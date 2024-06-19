@@ -1,5 +1,5 @@
 Hello, world 👋<br>
-I am a machine learning/deep learning learner.<br>
+I am a machine learning/deep learning learner.<br><br>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/sayaka-tajima/)  
 <!--
 **sayaka513/sayaka513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
